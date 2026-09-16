@@ -7421,10 +7421,10 @@
                       }
                     ]
                   },
-                  {
+{
                     "name": "Radio Based Limited Supervision (RBLS) ",
                     "type": "Solution",
-                    "description": "RBLS will supplement the Automatic Warning System (AWS) and Train Protection and Warning System (TPWS), until fully Automatic train Protection (ATP) via European Train Control System (ETCS) is rolled out. A development for Network RailRadio Based Limited Supervision (RBLS) is a train protection system that uses radio communication to transmit information about the track ahead to trains. It is a less expensive and less complex alternative to European Train Control System (ETCS), which is the standard train protection system in Europe.RBLS works either by using a digital map of the track available to the train, along with information about speed restrictions and other hazards. Trains use this information to calculate their safe speed and to apply the brakes if necessary.RBLS can be used as a standalone train protection system, or it can be used to supplement existing train protection systems, such as Automatic Warning System (AWS) and Train Protection and Warning System (TPWS).",
+                    "description": "RBLS will supplement the Automatic Warning System (AWS) and Train Protection and Warning System (TPWS), until fully Automatic train Protection (ATP) via European Train Control System (ETCS) is rolled out. A development for Network Rail. Radio Based Limited Supervision (RBLS) is a train protection system that uses radio communication to transmit information about the track ahead to trains.",
                     "owner": {
                       "name": "Christopher Johnson",
                       "email": "christopher.johnson@park-signalling.co.uk",
