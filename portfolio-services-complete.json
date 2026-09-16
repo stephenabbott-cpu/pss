@@ -6963,17 +6963,19 @@
               {
                 "name": "Relocatable Equipment Buildings",
                 "type": "Product",
-                "description": "Relocatable Equipment Buildings (REBs) are a a larger format housing for railway signalling equipment, switchgear, communications networking and E&P equipment. Unipart Rail has decades of experience in fitting out & supporting the design of the internal arrangements to house all the required equipment and each are manufactured to individual design specifications.TransformativeEnclosure PLUS gives customers a single source for all the control equipment needed for a project.We work with our customer from the design stage right through to Factory Acceptance Testing at installation. This ensures that the original build is optimised for space utilisation, cost reduction and integrates free-issue materials for an end-to-end service that reduces the headache of inventory management from your team.SustainableThe quality of the materials and build means that the finished product is to a high standard with low risk of in-service failure.90% of the materials we source are UK manufactured,meaning that your Scope 3 emissions are minimised.ProvenAs a supplier of product to NR & Tier 1 and Tier 2 contractors, we have supplied hundreds of enclosures into the rail sector for decades. All are manufactured to railway standards in accredited premises with an experienced and skilled workforce.Our staff are IRSE accredited and all our products are built using Network Rail Product Approved components.",
-                "owner": {
-                  "name": "Jason Sanderson",
-                  "role": "Product Owner",
-                  "email": "jason.sanderson@unipart.com",
-                  "phone": "7951 037338"
-                },
+                "description": "Relocatable Equipment Buildings (REBs) are a larger format housing for railway signalling equipment, switchgear, communications networking and E&P equipment. Unipart Rail has decades of experience in fitting out & supporting the design of the internal arrangements to house all the required equipment and each are manufactured to individual design specifications.TransformativeEnclosure PLUS gives customers a single source for all the control equipment needed for a project.We work with our customer from the design stage right through to Factory Acceptance Testing at installation. This ensures that the original build is optimised for space utilisation, cost reduction and integrates free-issue materials for an end-to-end service that reduces the headache of inventory management from your team.SustainableThe quality of the materials and build means that the finished product is to a high standard with low risk of in-service failure.90% of the materials we source are UK manufactured,meaning that your Scope 3 emissions are minimised.ProvenAs a supplier of product to NR & Tier 1 and Tier 2 contractors, we have supplied hundreds of enclosures into the rail sector for decades. All are manufactured to railway standards in accredited premises with an experienced and skilled workforce.Our staff are IRSE accredited and all our products are built using Network Rail Product Approved components.",
                 "caseStudies": [
                   {
                     "label": "View Details",
                     "url": "https://drive.google.com/file/d/1Em86hkfN5CkGHcpNX9CPoN2pLfComli1/view?usp=drive_link"
+                  }
+                ],
+                "owners": [
+                  {
+                    "name": "Jason Sanderson",
+                    "role": "Product Owner",
+                    "email": "jason.sanderson@unipart.com",
+                    "phone": "07950 037338"
                   }
                 ]
               },
